@@ -10,6 +10,23 @@ Managing large numbers of files manually can be time-consuming and confusing. Sm
 
 Users can preview the proposed organization before confirming file operations, making file management easier and more structured.
 
+## Application Screenshots
+
+### Dashboard
+![Smart File Organizer Dashboard](assets/screenshots/dashboard.png)
+
+### File Organization Preview
+![File Organization Preview](assets/screenshots/organizer-preview.png)
+
+### Before Organization
+![Original Folder Structure](assets/screenshots/before-organization.png)
+
+### After Organization
+![Organized Folder Structure](assets/screenshots/after-organization.png)
+
+### Additional Application View
+![Smart File Organizer Additional View](assets/screenshots/alternate-dashboard.png)
+
 ## Features
 
 - **Smart File Categorization** – Identifies file types using their extensions.
