@@ -1,0 +1,37 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Build files
+build/
+dist/
+*.spec
+
+# Database and local data
+*.db
+*.sqlite
+*.sqlite3
+
+# Personal test files
+TestFiles/
+test_files/
+
+# IDE settings
+.vscode/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Logs
+*.log
+
+# Windows and macOS files
+Thumbs.db
+.DS_Store
+desktop.ini
